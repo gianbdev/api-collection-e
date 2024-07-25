@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Django
+db.sqlite3
+local_settings.py
+
+# Virtual Environment
+venv/
+.env/
+
+# Editor/IDE
+*.swp
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Logs
+*.log
+
+# Mypy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Others
+*.egg-info/
