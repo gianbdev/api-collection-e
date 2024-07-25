@@ -10,7 +10,7 @@ this rest api can be might hel you to build a simple login for your backend app.
 - venv
 - Modules
 
-## Instalattion
+## Installation
 
 ### Requisitos
 
