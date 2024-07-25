@@ -4,11 +4,11 @@
 __pycache__/
 *.env
 
-/db.sqlite3
-/local_settings.py
+db.sqlite3
+local_settings.py
 
-/venv/
-/.env/
+venv/
+.env/
 
 *.swp
 *.sublime-project
@@ -17,9 +17,8 @@ __pycache__/
 
 *.log
 
-/.mypy_cache/
+.mypy_cache/
 
-# Pytest
-/.pytest_cache/
+.pytest_cache/
 
 *.egg-info/
